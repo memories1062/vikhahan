@@ -1,0 +1,10 @@
+{
+  "name": "legacy-bot-hosting-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
